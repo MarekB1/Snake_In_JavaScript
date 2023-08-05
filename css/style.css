@@ -1,0 +1,24 @@
+body  {
+    background-color: #000;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+
+canvas {
+    border: 3px solid rgb(167, 1, 112);
+    border-radius: 3px;
+    margin: 0.5rem 1.5rem 2rem 1.5rem;
+}
+
+h1,
+h2 {
+    margin: 0;
+    color: #ccc;
+}
+
+h2 {
+    font-size: 3em;
+}
